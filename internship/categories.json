@@ -195,12 +195,14 @@
     "csv",
     "ics",
     "vcf",
-    "gsheet"
+    "gsheet",
+    "google sheets"
   ],
   "slide": [
     "ppt",
     "odp",
-    "gslides"
+    "gslides",
+    "google slides"
   ],
   "text": [
     "doc",
@@ -219,7 +221,8 @@
     "txt",
     "wpd",
     "wps",
-    "gdoc"
+    "gdoc",
+    "google docs"
   ],
   "video": [
     "3g2",
@@ -268,6 +271,7 @@
     "scss",
     "wasm",
     "php",
-    "gsite"
+    "gsite",
+    "google sites"
   ]
 }
