@@ -137,7 +137,8 @@
     "vcxproj",
     "xcodeproj",
     "xml",
-    "zsh"
+    "zsh",
+    "script"
   ],
   "exec": [
     "exe",
@@ -196,13 +197,15 @@
     "ics",
     "vcf",
     "gsheet",
-    "google sheets"
+    "google sheets",
+    "spreadsheet"
   ],
   "slide": [
     "ppt",
     "odp",
     "gslides",
-    "google slides"
+    "google slides",
+    "presentation"
   ],
   "text": [
     "doc",
@@ -222,7 +225,8 @@
     "wpd",
     "wps",
     "gdoc",
-    "google docs"
+    "google docs",
+    "document"
   ],
   "video": [
     "3g2",
